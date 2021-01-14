@@ -1,0 +1,31 @@
+{
+  "name": "thanos",
+  "version": "1.0.0",
+  "description": "an almighty framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Knight-League/thanos.git"
+  },
+  "keywords": [
+    "web",
+    "framework",
+    "vue",
+    "node",
+    "js",
+    "javascript",
+    "typescript",
+    "ts",
+    "http",
+    "middleware"
+  ],
+  "author": "lubanproj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Knight-League/thanos/issues"
+  },
+  "homepage": "https://github.com/Knight-League/thanos#readme"
+}
