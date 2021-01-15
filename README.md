@@ -1,4 +1,4 @@
 # thanos
 an almighty framework
 
-nothing is ture, everything is permitted
+nothing is true, everything is permitted
